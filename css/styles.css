@@ -1,0 +1,74 @@
+html {
+    background-color: bisque;
+}
+
+.container {
+    font-family: Helvetica;
+    max-width: 1100px;
+    background-color: #fff;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.header {
+    text-align: center;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.subtitle {
+    font-style: italic;
+}
+
+.illustrative-picture {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.details {
+    margin: 25px 0;
+    padding: 25px 0;
+    border-top: 1px dashed bisque;
+    border-bottom: 1px dashed bisque;
+}
+
+.quote {
+    background-color: bisque;
+    padding: 30px
+}
+
+.quote blockquote {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.quote p {
+    font-style: italic;
+}
+
+.curiosities {
+    margin: 25px 0;
+    padding: 25px 0;
+    border-top: 1px dashed bisque;
+    border-bottom: 1px dashed bisque;
+}
+
+.curiosities li {
+    height: 30px;
+}
+
+.bold-image {
+    font-weight: bold;
+    text-align: center;
+}
+
+.bold-image img {
+    width: 90%;
+}
